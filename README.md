@@ -123,6 +123,12 @@ Steps followed in this project:
 
 # **Dashboard Overview**
 The Power BI dashboard is designed as a single-page executive view.
+
+# Dashboard Preview
+
+![Solar Plant Dashboard](https://raw.githubusercontent.com/priyankadatacodes/solar-plant-efficiency-analysis/main/dashboard/solar_dashboard.png)
+
+
 *Included Visuals*
 KPI cards for overall performance
 Daily energy generation vs system loss trend
