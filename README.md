@@ -22,8 +22,6 @@ Plant 1, 15 May to 17 June 2020 (34 days):
 * **AC/DC ratio:** about 9.78% for every inverter, not yet explained
 * **Inverters below 95% of the fleet mean:** 2 (by average AC power)
 
-Full write up: [Case study link: add after publishing]
-
 ### Business Question
 
 > **How efficiently is the solar plant generating energy, where is energy being lost, and which inverters require attention?**
