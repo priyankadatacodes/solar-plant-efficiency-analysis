@@ -161,7 +161,6 @@ A few cosmetic rough edges remain. The trend chart legend lists two measures tha
 ### Dashboard Preview
 
 ![Solar Plant Dashboard](https://raw.githubusercontent.com/priyankadatacodes/solar-plant-efficiency-analysis/main/dashboard/solar_dashboard.png)
-
 ## 9. Key Insights
 
 ### Plant Energy
